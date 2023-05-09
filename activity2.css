@@ -1,0 +1,17 @@
+
+h1 {
+    text-align:center;
+    width:100%;
+    color:darkblue;
+    font-family:Roboto, serif;
+}
+
+.CorpoDoTexto {
+    color:red;
+    font-family:Roboto, serif;
+}
+
+.CorpoDoTexto2 {
+    color:blue;
+    font-family:Roboto, serif;
+}
